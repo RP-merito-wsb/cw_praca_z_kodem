@@ -1,1 +1,2 @@
-Repozytorium stworzeone na potrzeby kolejnych zajęć. W repo, poza pliku README.md znajduje się również plik app.py.
+Repozytorium stworzeone na potrzeby kolejnych zajęć. W repo, znajduja sie
+pliki prostej aplikacji flask wyswietlajacej napis: "Hello World".

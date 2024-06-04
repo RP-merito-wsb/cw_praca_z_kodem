@@ -1,0 +1,6 @@
+# This file is used to installing required python packages.
+# Please enter: pip install -r requirements.txt
+
+Flask==3.0.3
+
+pytest==8.2.1
